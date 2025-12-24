@@ -8,7 +8,8 @@ A clean and efficient note-taking application built with React and Tailwind CSS.
 
 ## 📸 Screenshots
 
-![App Screenshot](./screenshot.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/97e6c243-5047-40bd-890f-083f777a9500" />
+
 
 ## ✨ Features
 
